@@ -1,0 +1,8 @@
+time=0:0:0:0, level=0, channel=0, action=off, dur=0, val=0, seq=0
+time=0:0:0:0, level=0, channel=1, action=on, dur=0, val=0, seq=0
+time=0:0:0:0, level=0, channel=2, action=on, dur=0, val=0, seq=0
+time=0:0:0:0, level=0, channel=3, action=on, dur=0, val=0, seq=0
+time=0:0:0:0, level=0, channel=4, action=on, dur=0, val=0, seq=0
+time=0:0:0:0, level=0, channel=5, action=on, dur=0, val=0, seq=0
+time=0:0:0:0, level=0, channel=6, action=on, dur=0, val=0, seq=0
+time=0:0:0:3, level=0, channel=0, action=off, dur=0, val=0, seq=0
